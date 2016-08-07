@@ -1,0 +1,29 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7.11 (~/anaconda2/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.11" />
+      <homePath value="$USER_HOME$/anaconda2/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/anaconda2/lib/python2.7" />
+            <root type="simple" url="file://$USER_HOME$/anaconda2/lib/python2.7/plat-linux2" />
+            <root type="simple" url="file://$USER_HOME$/anaconda2/lib/python2.7/lib-tk" />
+            <root type="simple" url="file://$USER_HOME$/anaconda2/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/anaconda2/lib/python2.7/site-packages/Sphinx-1.3.5-py2.7.egg" />
+            <root type="simple" url="jar://$USER_HOME$/anaconda2/lib/python2.7/site-packages/setuptools-20.3-py2.7.egg!/" />
+            <root type="simple" url="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/80577592" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
